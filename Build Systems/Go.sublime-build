@@ -1,0 +1,4 @@
+{
+    "cmd": ["go", "run", "${file}"],
+    "shell": true
+}

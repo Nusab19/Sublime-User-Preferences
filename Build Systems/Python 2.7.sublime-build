@@ -1,0 +1,5 @@
+{
+    "cmd": ["C:/Apps/Python27/python.exe", "$file"],
+    "shell": true,
+    "selector": "source.python27"
+}

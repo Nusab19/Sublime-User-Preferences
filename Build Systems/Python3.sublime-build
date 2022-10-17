@@ -1,0 +1,5 @@
+{
+    "cmd": ["C:/Users/osama/AppData/Local/Programs/Python/Python310/python.exe", "$file"],
+    "shell": true,
+    "selector": "source.python310"
+}
